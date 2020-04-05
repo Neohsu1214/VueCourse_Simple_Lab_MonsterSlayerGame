@@ -1,0 +1,1 @@
+** 由於並非webpack專案，所以啟動請使用 Live Server 啟動即可
